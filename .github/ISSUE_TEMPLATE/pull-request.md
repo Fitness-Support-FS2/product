@@ -2,7 +2,7 @@
 name: Pull Request
 about: Pull Request (General)
 title: "[PR] "
-labels: user story
+labels: ''
 assignees: ''
 
 ---
