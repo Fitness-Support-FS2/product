@@ -1,4 +1,4 @@
-Vision Statement 
+# Vision Statement 
 
 For anyone interested in weightlifting 
 
