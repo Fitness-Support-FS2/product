@@ -1,11 +1,4 @@
----
-name: Pull Request
-about: Pull Request (General)
-title: "[PR] "
-labels: ''
-assignees: ''
-
----
+<!-- Pull Request -->
 ## Pre-Checks
 - [ ] There is an open issue that this Pull Request addresses. **(Do not create a PR without an associated issue.)**
 - [ ] Checked that there are no other open Pull Requests for the same update/change.
